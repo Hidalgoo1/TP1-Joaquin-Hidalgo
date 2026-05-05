@@ -25,7 +25,7 @@ Instrucciones de Ejecución.
 Para correr el sistema en tu entorno local, seguí estos pasos:
 
 Clonar el repositorio:
-git clone https://github.com//SmartGastro-TP1.git
+git clone https://github.com/Hidalgoo1/TP1-Joaquin-Hidalgo.git
 
 Abrir el proyecto:
 Cargá la carpeta en tu IDE de preferencia.
